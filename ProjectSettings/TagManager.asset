@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Muzzle
+  - OptionsPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3354834273
+    locked: 0
+  - name: Background Tiles
+    uniqueID: 3765755571
+    locked: 0
+  - name: Decor
+    uniqueID: 3642962257
+    locked: 0
+  - name: Platforms
+    uniqueID: 1166867629
+    locked: 0
+  - name: Player
+    uniqueID: 980702541
+    locked: 0
+  - name: Effects
+    uniqueID: 210120313
+    locked: 0
+  - name: UI
+    uniqueID: 1494304543
+    locked: 0
